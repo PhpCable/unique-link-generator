@@ -1,5 +1,4 @@
-# unique-link-generator
-# Single use download script
+# Unique-Link-Generator
 # Demo
 https://github.com/PhpCable/unique-link-generator
 # Brief
