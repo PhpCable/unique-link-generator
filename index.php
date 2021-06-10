@@ -70,7 +70,7 @@
         <p><a href="/unique-link-generator/generate.php?1234">Generate a download link</a></p>
         <br>
         <h2>Git the code</h2><br>
-        <p><a href="https://github.com/jukemaasmo/unique-link-generator
+        <p><a href="https://github.com/phpcable/unique-link-generator
 ">Github repository</a></p>
         <br>
 		</div>
